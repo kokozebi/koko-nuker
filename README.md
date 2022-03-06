@@ -27,7 +27,7 @@ document.images['fst'].src="blnkbut.gif";
 
 
 
-# RealDanzo stats 
+# stats koko 
 
 ![Realkoko's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealDanzo&hide=contribs,prs)
 
